@@ -117,9 +117,15 @@ footer {
 }
 
 main {
-  background-color: #ccc;
-  height: 250px;
+  background-size: cover;
+  background: url('../img/about-me.png');
+  height: 300px;
   width: 100%;
+}
+
+p {
+  padding: 0px 30px 0px 30px;
+  color: #000
 }
 
 header,
